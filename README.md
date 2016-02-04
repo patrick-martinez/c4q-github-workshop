@@ -1,7 +1,6 @@
 # Unit 0: Programming Basics
 
 Lesson plans, activities and assignments for Unit 0 will be posted here!
-
 ### Lesson plans
 
  # |  Date | Week | Lesson |
@@ -9,28 +8,8 @@ Lesson plans, activities and assignments for Unit 0 will be posted here!
  0 | Mar 1 | 0 | [Intro: Compiling & Printing](lessons/week-0/2015-03-01_intro-compiling-printing.md)
  1 | Mar 3 | | [Variables & Types](lessons/week-0/2015-03-03_variables-types-strings.md)
  2 | Mar 5 | | [Input & If](lessons/week-0/2015-03-05_input-if.md)
- 3 | Mar 7 | | [Week 0 Review](lessons/week-0/2015-03-07_week-0-review.md)
- 4 | Mar 8 | 1 | [Boolean expressions; while loops](lessons/week-1/2015-03-08 boolean and while.md)
- 5 | Mar 10 | | [For loops](lessons/week-1/2015-03-10_for-loops.md)
- 6 | Mar 12 | | [Methods](lessons/week-1/2015-03-12_methods.md)
- 7 | Mar 14 | | [Week 1 Review](lessons/week-1/2015-03-14_week-1-review.md)
- 8 | Mar 15 | 2 | [Loops + String Methods ](lessons/week-2/2015-03-15.md)
- 9 | Mar 17 | | [Classes](lessons/week-2/2015-03-17_classes-part-1.md)
- 10 | Mar 19 | | [Classes](lessons/week-2/2015-03-19_classes-part-2.md)
- 11 | Mar 21 | | [Classes/Review](lessons/week-2/2015-03-21_classes-part-3.md)
- 12 | Mar 22 | 3 | [encoding, URLs, HTTP](https://github.com/accesscode-2-1/ac20150322)
- 13 | Mar 24 |   | [ArrayList](lessons/week-3/2015-03-24_arraylists.md)
- 14 | Mar 26 |   | [ArrayList](lessons/week-3/2015-03-26_arraylists-part-2.md)
- 15 | Mar 28 |   | [ArrayList](lessons/week-3/2015-03-28_arraylists-part-3.md)
- 16 | Mar 29 | 4 | [HashMap](lessons/week-4/2015-03-29.md)
- 17 | Mar 31 |   | [HashMap](lessons/week-4/2015-03-31_hashmap.md)
- 18 | Apr 2 |   | [Sets](lessons/week-4/2015-04-02_sets.md)
- 19 | Apr 4 |   | [JSON](lessons/week-4/2015-04-04_json.md)
- | Apr 5 | 5 | No class!
- 20 | Apr 7 | | Final Project
- 21 | Apr 9 | | [End of Unit](lessons/week-5/2015-04-09_end-of-unit.md)
 
-### Homework
+### links
 
 | Due Date | Homework|
 |---|---|
